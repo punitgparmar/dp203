@@ -1,0 +1,6 @@
+inc_id|inc_name|inc_city
+1|punit|ahd
+6|krupal|abd
+8|tejas|vadodara
+10|divyang|ahd
+11|sudhakara|delete

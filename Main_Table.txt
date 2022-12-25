@@ -1,0 +1,11 @@
+id|name|city
+1|punit|snd
+2|manthan|abd
+3|jayant|abd
+4|surya|hdbd
+5|dipesh|abd
+6|krupal|abd
+7|divyang|abd
+8|tejas|baroda
+9|sravan|hdbd
+10|divyang|naroda

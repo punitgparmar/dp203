@@ -1,0 +1,27 @@
+{
+	"name": "Dataset1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "dp203-punittest-WorkspaceDefaultStorage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "Sub ledger Master.csv",
+				"folderPath": "synapse/workspaces/dp203-punittest/TESTDATA",
+				"fileSystem": "synapse-filesystem"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"type": "String"
+			}
+		]
+	}
+}
